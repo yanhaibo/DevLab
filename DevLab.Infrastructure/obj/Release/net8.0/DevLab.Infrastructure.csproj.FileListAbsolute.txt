@@ -1,0 +1,15 @@
+D:\workspace\DevLab\DevLab.Infrastructure\bin\Release\net8.0\DevLab.Infrastructure.deps.json
+D:\workspace\DevLab\DevLab.Infrastructure\bin\Release\net8.0\DevLab.Infrastructure.dll
+D:\workspace\DevLab\DevLab.Infrastructure\bin\Release\net8.0\DevLab.Infrastructure.pdb
+D:\workspace\DevLab\DevLab.Infrastructure\bin\Release\net8.0\DevLab.Domain.dll
+D:\workspace\DevLab\DevLab.Infrastructure\bin\Release\net8.0\DevLab.Domain.pdb
+D:\workspace\DevLab\DevLab.Infrastructure\obj\Release\net8.0\DevLab.Infrastructure.csproj.AssemblyReference.cache
+D:\workspace\DevLab\DevLab.Infrastructure\obj\Release\net8.0\DevLab.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\DevLab\DevLab.Infrastructure\obj\Release\net8.0\DevLab.Infrastructure.AssemblyInfoInputs.cache
+D:\workspace\DevLab\DevLab.Infrastructure\obj\Release\net8.0\DevLab.Infrastructure.AssemblyInfo.cs
+D:\workspace\DevLab\DevLab.Infrastructure\obj\Release\net8.0\DevLab.Infrastructure.csproj.CoreCompileInputs.cache
+D:\workspace\DevLab\DevLab.Infrastructure\obj\Release\net8.0\DevLab.I.F7743395.Up2Date
+D:\workspace\DevLab\DevLab.Infrastructure\obj\Release\net8.0\DevLab.Infrastructure.dll
+D:\workspace\DevLab\DevLab.Infrastructure\obj\Release\net8.0\refint\DevLab.Infrastructure.dll
+D:\workspace\DevLab\DevLab.Infrastructure\obj\Release\net8.0\DevLab.Infrastructure.pdb
+D:\workspace\DevLab\DevLab.Infrastructure\obj\Release\net8.0\ref\DevLab.Infrastructure.dll

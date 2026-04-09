@@ -1,0 +1,11 @@
+D:\workspace\DevLab\DevLab.Domain\bin\Release\net8.0\DevLab.Domain.deps.json
+D:\workspace\DevLab\DevLab.Domain\bin\Release\net8.0\DevLab.Domain.dll
+D:\workspace\DevLab\DevLab.Domain\bin\Release\net8.0\DevLab.Domain.pdb
+D:\workspace\DevLab\DevLab.Domain\obj\Release\net8.0\DevLab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\DevLab\DevLab.Domain\obj\Release\net8.0\DevLab.Domain.AssemblyInfoInputs.cache
+D:\workspace\DevLab\DevLab.Domain\obj\Release\net8.0\DevLab.Domain.AssemblyInfo.cs
+D:\workspace\DevLab\DevLab.Domain\obj\Release\net8.0\DevLab.Domain.csproj.CoreCompileInputs.cache
+D:\workspace\DevLab\DevLab.Domain\obj\Release\net8.0\DevLab.Domain.dll
+D:\workspace\DevLab\DevLab.Domain\obj\Release\net8.0\refint\DevLab.Domain.dll
+D:\workspace\DevLab\DevLab.Domain\obj\Release\net8.0\DevLab.Domain.pdb
+D:\workspace\DevLab\DevLab.Domain\obj\Release\net8.0\ref\DevLab.Domain.dll
